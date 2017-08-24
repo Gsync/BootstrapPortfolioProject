@@ -91,3 +91,6 @@ footer {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+.align {
+  text-align: center;
+}
